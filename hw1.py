@@ -184,4 +184,3 @@ df_predict['label'] = out
 df_predict.to_csv('/home/sidney/Desktop/hw1/predictions.csv', index=False)
 
 torch.save(model, '/home/sidney/Desktop/hw1/model.pth')
-
