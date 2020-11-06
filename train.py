@@ -1,5 +1,4 @@
 import pandas as pd
-import shutil
 import numpy as np
 import torch
 import torch.nn as nn
