@@ -23,3 +23,4 @@ for i in range(0, 11185):
     new = "/home/sidney/Desktop/hw1/train/" + label[i] + '/' + name[i]
     shutil.move(old, new)
 
+
