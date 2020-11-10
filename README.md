@@ -11,7 +11,6 @@
 - Pytorch
 
 ### Data
-- download the data from the following link.
 - https://www.kaggle.com/c/cs-t0828-2020-hw1
 
 ### Prepare images
