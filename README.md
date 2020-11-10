@@ -11,7 +11,8 @@
 - Pytorch
 
 ### Data
--https://www.kaggle.com/c/cs-t0828-2020-hw1
+- download the data from the following link.
+- https://www.kaggle.com/c/cs-t0828-2020-hw1
 
 ### Prepare images
 - After downloading the data then run get_data.py to convert data to this structure:
