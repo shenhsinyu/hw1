@@ -1,5 +1,4 @@
-## hw1 
-####  car brand classification
+## hw1 - car brand classification
 
 
 ### Hardware
